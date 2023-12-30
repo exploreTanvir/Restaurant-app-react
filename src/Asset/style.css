@@ -174,7 +174,7 @@ section {
   right: 1rem;
   font-size: 2rem;
   cursor: pointer;
-  color: #13131a;
+  color: #0000ff;
 }
 
 .header .cart-items-container .cart-item .fa-times:hover {
@@ -206,7 +206,8 @@ section {
   display: flex;
   align-items: center;
   background: linear-gradient(90deg, rgb(0 0 0 / 90%), rgb(68 68 68 / 35%)),
-    url(#) no-repeat;
+    url(../Asset//images//home-img.jpeg) no-repeat;
+
   background-size: cover;
   background-position: center;
 }
