@@ -6,7 +6,7 @@ const Home = () => {
         <section className='home' id='home'>
             <div className='content'>
                 <h3>
-                    fresh<span>  food in the  </span>morning
+                    FRESH<span>  FOOD IN THE  </span>MORNING
                 </h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut impedit quisquam, tenetur voluptatum cum inventore delectus perspiciatis illum soluta alias.</p>
                 <a href='#nothing' className='btn'>GET YOUR'S NOW</a>
