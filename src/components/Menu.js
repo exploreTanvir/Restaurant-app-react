@@ -14,7 +14,7 @@ const Menu = () => {
                             <img src={item.img} alt='#'/>
                             <h3>Tasty and healthy</h3>
                             <div className='price'>
-                                $15.99 <span>20.99</span>
+                                $15.99 <span>$20.99</span>
                             </div>
                             <a href='#nothing' className='btn'>ADD TO CART</a>
                           </div>

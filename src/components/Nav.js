@@ -31,10 +31,11 @@ const Nav = () => {
             <a href='#home'>home</a>
             <a href='#about'>about</a>
             <a href='#menu'>menu</a>
-            <a href='#product'>product</a>
+            <a href='#products'>product</a>
             <a href='#review'>review</a>
-            <a href='#contact'>contact</a>
             <a href='#blogs'>blogs</a>
+            <a href='#contact'>contact</a>
+
                 </nav>  
                 <div className='icons'>
                 <div className='fas fa-search' onClick={searchHandler}></div>
